@@ -1,4 +1,4 @@
-# AI Interview Coach
+# LLM Interview Coach
 
 An intelligent interview practice bot that helps data scientists and ML engineers prepare for technical interviews using GPT-4o.
 
