@@ -1,0 +1,26 @@
+# API Keys and Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Interview Sessions (optional - if you don't want to upload your practice sessions)
+interview_session_*.json
+
+# Logs
+*.log
