@@ -12,12 +12,7 @@ An intelligent interview practice bot that helps data scientists and ML engineer
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR-USERNAME/ai-interview-coach.git
-cd ai-interview-coach
-```
-
+1. Clone the repository
 2. Install dependencies:
 ```bash
 pip install openai python-dotenv
